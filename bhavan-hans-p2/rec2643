@@ -1,0 +1,25 @@
+bhavan-hans-p2:
+total 424
+-rwxr-xr-x. 1 ugrad 29698 Nov  5 23:10 env
+-rw-r--r--. 1 ugrad   775 Nov  5 23:07 env.cpp
+-rw-r--r--. 1 ugrad 40656 Nov  5 23:10 env.o
+-rwxr-xr-x. 1 ugrad 10189 Nov  5 14:33 false
+-rw-r--r--. 1 ugrad    57 Nov  5 14:31 false.cpp
+-rw-r--r--. 1 ugrad  6592 Nov  5 14:32 false.o
+-rwxr-xr-x. 1 ugrad 30666 Nov  6 12:34 head
+-rw-r--r--. 1 ugrad  1928 Nov  6 12:34 head.cpp
+-rw-r--r--. 1 ugrad 39704 Nov  6 12:34 head.o
+-rw-r--r--. 1 ugrad   591 Nov  5 23:09 makefile
+-rw-r--r--. 1 ugrad   108 Nov  5 23:12 README.txt
+-rw-r--r--. 1 ugrad     0 Nov  6 12:37 rec2643
+-rwxr-xr-x. 1 ugrad 31289 Nov  6 12:32 tail
+-rw-r--r--. 1 ugrad  3256 Nov  6 12:32 tail.cpp
+-rw-r--r--. 1 ugrad 40864 Nov  6 12:32 tail.o
+-rwxr-xr-x. 1 ugrad 29773 Nov  5 18:59 test
+-rwxr-xr-x. 1 ugrad 10188 Nov  5 14:31 true
+-rw-r--r--. 1 ugrad    57 Nov  5 14:31 true.cpp
+-rw-r--r--. 1 ugrad  6592 Nov  5 14:31 true.o
+-rwxr-xr-x. 1 ugrad 39460 Nov  5 23:09 wc
+-rw-r--r--. 1 ugrad  7178 Nov  5 23:07 wc.cpp
+-rw-r--r--. 1 ugrad 60032 Nov  5 23:09 wc.o
+/home/ugrads/bhavan/cs1730/bhavan-hans-p2:/home/work/cs1730a

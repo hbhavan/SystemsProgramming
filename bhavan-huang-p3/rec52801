@@ -1,0 +1,13 @@
+bhavan-huang-p3:
+total 36
+-rw-r--r--. 1 ugrad  964 Nov 16 12:10 dirlist.cpp
+-rw-r--r--. 1 ugrad 1229 Nov 16 12:10 forkpid.cpp
+-rw-r--r--. 1 ugrad  557 Nov 16 12:13 makefile
+-rw-r--r--. 1 ugrad 2615 Nov 15 11:41 newer.cpp
+-rw-r--r--. 1 ugrad 1113 Nov 15 11:54 README.txt
+-rw-r--r--. 1 ugrad    0 Nov 16 12:13 rec52801
+-rw-r--r--. 1 ugrad 1487 Nov 15 11:42 size.cpp
+-rw-r--r--. 1 ugrad    5 Nov 15 11:42 test1.txt
+-rw-r--r--. 1 ugrad   18 Nov 15 11:42 test2.txt
+-rw-r--r--. 1 ugrad   10 Nov 15 11:42 test3.txt
+/home/ugrads/bhavan/cs1730/bhavan-huang-p3:/home/work/cs1730a

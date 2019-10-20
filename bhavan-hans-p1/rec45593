@@ -1,0 +1,12 @@
+bhavan-hans-p1:
+total 212
+-rw-r--r--. 1 ugrad   219 Oct 12 15:30 makefile
+-rw-r--r--. 1 ugrad  7345 Oct 13 18:28 Matrix.cpp
+-rw-r--r--. 1 ugrad  1479 Oct 13 18:28 Matrix.h
+-rw-r--r--. 1 ugrad 64560 Oct 13 18:28 Matrix.o
+-rwxr-xr-x. 1 ugrad 67758 Oct 13 18:28 p1
+-rw-r--r--. 1 ugrad  3364 Oct 13 18:05 p1.cpp
+-rw-r--r--. 1 ugrad 54496 Oct 13 18:28 p1.o
+-rw-r--r--. 1 ugrad   187 Oct 13 18:31 README.txt
+-rw-r--r--. 1 ugrad     0 Oct 13 18:31 rec45593
+/home/ugrads/bhavan/cs1730/bhavan-hans-p1:/home/work/cs1730a
